@@ -33,6 +33,6 @@ Program ini akan mengukur daya serap dinding pada ruangan yang diujikan.
 | File |      link     |
 | ------ | ------ |
 | Laporan | tempel link disini |
-| Program | https://github.com/marselferrys/TUBES-PKS-2 |
+| Program | https://github.com/AdamYanSyafril/Tubes-PKS-2 |
 | Program running | https://www.onlinegdb.com/B1zZ_MUGl |
 | Video | tempel link disini |
