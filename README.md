@@ -4,8 +4,7 @@ Program ini akan mengukur daya serap dinding pada ruangan yang diujikan.
 ## Anggota kelompok 
 1. Dio Rizky Pratama (122320012) Teknik Fisika TPB 7
 2. Muhammad Adam (122320009) Teknik Fisika TPB 7
-3. Saut Martua Turnip (122320011) Teknik Fisika TPB 7
-4. Wahyu Yazhid Nur Asmana (122320010)  Teknik Fisika TPB 7
+3. Wahyu Yazhid Nur Asmana (122320010)  Teknik Fisika TPB 7
 
 ## Pengantar Komputer & Software 2
 - Nama Dosen: Asep Nurul Ajiid Mustofa
