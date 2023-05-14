@@ -31,7 +31,7 @@ Program ini akan mengukur daya serap dinding pada ruangan yang diujikan.
 
 | File |      link     |
 | ------ | ------ |
-| Laporan | tempel link disini |
+| Laporan | https://docs.google.com/document/d/1CqQb06HdTCp8LESaVRdH7DyxpF-yLVgS/edit?usp=share_link&ouid=106782601265072744887&rtpof=true&sd=true |
 | Program | https://github.com/AdamYanSyafril/Tubes-PKS-2 |
 | Program running | https://replit.com/@MuhammadAdam57/Program-Perhitungan-Kemampuan-Serap-Dinding-yang-Mempuny-1?v=1 |
-| Video | tempel link disini |
+| Video | https://youtu.be/AsA0uKe6JwU |
